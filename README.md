@@ -30,14 +30,14 @@ Please refer to the engines field in package.json file for the minimum required 
 
 To view the version of Node and npm in your environment, run the following in your console:
 
-```
+```bash
 node --version && npm --version
 ```
 
 * In your console:
 
 ```
-git clone https://github.com/BlueWallet/BlueWallet.git
+git clone https://github.com/web4application/BlueWallet.git
 cd BlueWallet
 npm install
 ```
@@ -58,21 +58,21 @@ You will now need to either connect an Android device to your computer or run an
 
 Once you connected an Android device or launched an emulator, run this:
 
-```
+```bash
 npx react-native run-android
 ```
 
 The above command will build the app and install it. Once you launch the app it will take some time for all of the dependencies to load. Once everything loads up, you should have the built app running.
 
 * To run on iOS:
-
+bash
 ```
 npx pod-install
 npm start
 ```
 
 In another terminal window within the BlueWallet folder:
-```
+```bash
 npx react-native run-ios
 ```
 **To debug BlueWallet on the iOS Simulator, you must choose a Rosetta-compatible iOS Simulator. This can be done by navigating to the Product menu in Xcode, selecting Destination Architectures, and then opting for "Show Both." This action will reveal the simulators that support Rosetta.
@@ -80,7 +80,7 @@ npx react-native run-ios
 
 * To run on macOS using Mac Catalyst:
 
-```
+```bash
 npx pod-install
 npm start
 ```
