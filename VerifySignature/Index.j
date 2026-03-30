@@ -1,0 +1,1 @@
+https://bluewallet.github.io/VerifySignature?a=13DRsvqgy74mqLwMart9LcR8utGvCaCxvZ&m=bc1qwqdg6squsna38e46795at95yu9atm8azzmyvckulcc7kytlcckxswvvzej&s=HMkASDQKMJMdYh%2BPK0wFof6bWJbKa9IaSTsEvOT1KhuUNkNSf2vFiO8W5baORdhBgESibQyFbOYNbSoxaf18blk%3D
